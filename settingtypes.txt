@@ -1,0 +1,14 @@
+# Configurações aplicaveis para o menu gráfico
+
+#
+# Geral
+#
+
+# Isso apenas define se os loots dos baus deve ser redefinidos
+# Se esse numero for alterado, todos os loots são redefinidor 
+# quando os nodes forem carregados no mapa (reinicie o servidor para isso)
+treasures_loot_nodes_number_control (Numero de controle de loot) int 1
+
+
+
+
