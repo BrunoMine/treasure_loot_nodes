@@ -10,7 +10,7 @@
   ]]
 
 -- Tabela Global
-anarquia = {}
+treasures_loot_nodes = {}
 
 local modpath = minetest.get_modpath("treasures_loot_nodes")
 
